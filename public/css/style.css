@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(153, 40, 40);
+}
+header{
+
+    text-align: center;
+    background-color:rgb(243, 78, 78);
+    margin: 10px;
+    border: grey solid 2px;
+    color: honeydew
+}
+h2{
+    text-align: center;
+    background-color: rgb(243, 78, 78);
+    margin: 10px;
+    border: grey solid 2px;
+    color: honeydew;
+}
+.formu{
+    text-align: center;
+    background-color: rgb(243, 78, 78) ;
+    color: honeydew;
+    margin: 10px;
+}
+p{
+    color: honeydew;
+    margin-left: 10px;
+}
+.imagen{
+    width: 500px;
+    border: grey solid 4px;
+    text-align: center;
+}
+.stan-lee{
+    width: 250px;
+    margin-left: 300px;
+
+}
+.aclaracion{
+    color: red;
+    background-color: rgb(233, 199, 6);
+    margin-top: 10px;
+    text-align: center;
+}
+.info{
+    margin: 5px;
+
+}
+footer{
+    background-color: black;
+    margin: 10px;
+}
+.container{
+    background-color: rgb(221, 23, 23) ;
+}
